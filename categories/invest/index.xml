@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Invest - 分类 - 道一</title>
+        <link>https://example.com/categories/invest/</link>
+        <description>Invest - 分类 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 09 Mar 2022 09:58:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/invest/" rel="self" type="application/rss+xml" /><item>
+    <title>证券历史回溯</title>
+    <link>https://example.com/securities-history-back/</link>
+    <pubDate>Wed, 09 Mar 2022 09:58:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/securities-history-back/</guid>
+    <description><![CDATA[证券历史大事记 Table 1: 证券历史大事记 时间 大事记 备注 阶段 1984-11-14 上海飞乐音响公司“小飞乐”股票发行 改革开放后发行的第一只股票 股民 1.0 时代（1984-199]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Health - 分类 - 道一</title>
+        <link>https://example.com/categories/health/</link>
+        <description>Health - 分类 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/health/" rel="self" type="application/rss+xml" /><item>
+    <title>片仔癀</title>
+    <link>https://example.com/pian-zei-huang/</link>
+    <pubDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/pian-zei-huang/</guid>
+    <description><![CDATA[State &ldquo;DONE&rdquo; from [2022-04-07 周四 22:38] 保护肝脏，治疗病毒性肝炎 手术后病人及软组织损伤，促进愈合，提高人体免疫力 改善癌症症状，抑制肿瘤引起的疼痛 祛邪安正，增强免疫力，]]></description>
+</item><item>
+    <title>Hepatitis b</title>
+    <link>https://example.com/hepatitis/</link>
+    <pubDate>Thu, 07 Apr 2022 22:35:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/hepatitis/</guid>
+    <description><![CDATA[「大三阳」和「小三阳」不能用来判断疾病严重与否。 「大三阳」通常代表传染性强，乙肝病毒在体内复制能力较强。反复肝脏炎症发作者容易发生肝硬化，甚]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Information - 分类 - 道一</title>
+        <link>https://example.com/categories/information/</link>
+        <description>Information - 分类 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 07 Apr 2022 22:25:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/information/" rel="self" type="application/rss+xml" /><item>
+    <title>好大学</title>
+    <link>https://example.com/good-university/</link>
+    <pubDate>Thu, 07 Apr 2022 22:25:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/good-university/</guid>
+    <description><![CDATA[被忽视的好大学 高考门槛分数很低的好大学，学生家长收藏。 桂林航天工业大学 455 分，背景中国航天工业总公司； 哈尔滨金融学院 460 分，背景中国人民银行总行]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Medicine - 分类 - 道一</title>
+        <link>https://example.com/categories/medicine/</link>
+        <description>Medicine - 分类 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 05 Apr 2022 23:21:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/medicine/" rel="self" type="application/rss+xml" /><item>
+    <title>Huawei Watch ECG</title>
+    <link>https://example.com/huawei-watch-ecg/</link>
+    <pubDate>Tue, 05 Apr 2022 23:21:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/huawei-watch-ecg/</guid>
+    <description><![CDATA[EG 是英文 Electro ardio Graphy 的缩写，中文意思就是心电图。 “具备心电图检测和心血管健康研究检测功能” 通过与 301 医院合作，让用户可以通过智能手表就能随时随地获取]]></description>
+</item><item>
+    <title>窦性心律不齐</title>
+    <link>https://example.com/dou-xing-xin-lv/</link>
+    <pubDate>Tue, 05 Apr 2022 22:32:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/dou-xing-xin-lv/</guid>
+    <description><![CDATA[概念 右心房有一个控制整个心脏的“指挥官”&ndash;窦房结，它是人体正常心跳的发出点，也是“心脏起搏点”。它可以自动、有节律的发出电脉冲，]]></description>
+</item></channel>
+</rss>

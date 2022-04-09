@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Concept - 分类 - 道一</title>
+        <link>https://example.com/categories/concept/</link>
+        <description>Concept - 分类 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Mar 2022 11:34:00 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/concept/" rel="self" type="application/rss+xml" /><item>
+    <title>VR、AR 和 MR</title>
+    <link>https://example.com/ar-vr-mr/</link>
+    <pubDate>Sun, 27 Mar 2022 11:34:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/ar-vr-mr/</guid>
+    <description><![CDATA[VR,虚拟现实 Virtual Reality, 可以让用户沉浸其中的由计算机生成的三维虚拟环境，并与现实环境相隔绝。 看到的场景和人物全是“假的”. AR,增强现实 Augmented Real]]></description>
+</item><item>
+    <title>红圏&#34;五院四系&#34;</title>
+    <link>https://example.com/hongquan/</link>
+    <pubDate>Sat, 12 Mar 2022 20:41:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/hongquan/</guid>
+    <description><![CDATA[概念是来自法律界“福布斯”之称的《亚洲法律杂志》（ALB）在题为《红圈中的律师事务所》一文中提出的，是指中国最顶级的律所。 公认的八大红圈律所]]></description>
+</item><item>
+    <title>邮件中的英文缩写</title>
+    <link>https://example.com/english-abbreviations-in-email/</link>
+    <pubDate>Sat, 12 Mar 2022 20:36:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/english-abbreviations-in-email/</guid>
+    <description><![CDATA[abbreviations 全拼 释义 OOO Out of Office 不上班，不在办公室 PS postscript 一般放在邮件的文末附注一些需要提及的内容 CC carbon copy 抄送（carbon [ˈkɑːbən] BCC blind carbon copy FYI For Your Information 供]]></description>
+</item></channel>
+</rss>
