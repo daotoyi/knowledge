@@ -1,0 +1,27 @@
+name: CI - Deploy GitHub Pages
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest #运行在虚拟机环境ubuntu-latest
+
+    steps: 
+      - name: Checkout 
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Generate static file
+        run:  apt install hugp && hugo
+
+      - name: Deploy on Github
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          REPOSITORY_NAME: daotoyi/site
+          BRANCH: gh-pages
+          FOLDER: /public 
