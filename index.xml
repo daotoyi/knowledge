@@ -4,22 +4,36 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 14 Apr 2022 14:32:00 &#43;0800</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>反导国家</title>
+    <link>https://example.com/fan-dao-guo-jia/</link>
+    <pubDate>Thu, 14 Apr 2022 14:32:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/fan-dao-guo-jia/</guid>
+    <description><![CDATA[世界上拥有相对完善的反导国家只有三个——中国美国俄罗斯！ 印度日本以色列只能拦截普通的巡航导弹： 各国反导英文简称非常雷人: 美国国家导弹防预系统]]></description>
+</item><item>
+    <title>槟榔</title>
+    <link>https://example.com/bing-lang/</link>
+    <pubDate>Mon, 11 Apr 2022 10:55:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/bing-lang/</guid>
+    <description><![CDATA[功效 杀虫，消积，行气，利水，截疟。 主治 用于绦虫病、蛔虫病、姜片虫病，虫积腹痛，积滞泻痢，里急后重，水肿脚气，疟疾。 禁忌 脾虚便溏，气虚下陷者忌]]></description>
+</item><item>
+    <title>Hepatitis B</title>
+    <link>https://example.com/hepatitis/</link>
+    <pubDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/hepatitis/</guid>
+    <description><![CDATA[乙肝 一般来讲，乙肝传播有 母婴传播、血制品接触、性传播、不规范医疗行为 等几种途径。 主要经过 血液和体液传播 ，乙肝病毒无法进入正常的皮肤粘膜、消化]]></description>
+</item><item>
     <title>片仔癀</title>
     <link>https://example.com/pian-zei-huang/</link>
     <pubDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://example.com/pian-zei-huang/</guid>
     <description><![CDATA[State &ldquo;DONE&rdquo; from [2022-04-07 周四 22:38] 保护肝脏，治疗病毒性肝炎 手术后病人及软组织损伤，促进愈合，提高人体免疫力 改善癌症症状，抑制肿瘤引起的疼痛 祛邪安正，增强免疫力，]]></description>
-</item><item>
-    <title>Hepatitis b</title>
-    <link>https://example.com/hepatitis/</link>
-    <pubDate>Thu, 07 Apr 2022 22:35:40 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/hepatitis/</guid>
-    <description><![CDATA[「大三阳」和「小三阳」不能用来判断疾病严重与否。 「大三阳」通常代表传染性强，乙肝病毒在体内复制能力较强。反复肝脏炎症发作者容易发生肝硬化，甚]]></description>
 </item><item>
     <title>任泽平：多元化</title>
     <link>https://example.com/ren-ze-ping/</link>
@@ -62,19 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/dou-xing-xin-lv/</guid>
     <description><![CDATA[概念 右心房有一个控制整个心脏的“指挥官”&ndash;窦房结，它是人体正常心跳的发出点，也是“心脏起搏点”。它可以自动、有节律的发出电脉冲，]]></description>
-</item><item>
-    <title>低期望，多尝试</title>
-    <link>https://example.com/low-expectations-and-try-a-lot/</link>
-    <pubDate>Mon, 28 Mar 2022 12:11:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/low-expectations-and-try-a-lot/</guid>
-    <description><![CDATA[当一个有前途的新项目出现在你面前时，不妨认定它很难成功，但是如果你相信这个项目，即便赚不到钱你也想做，那么无论如此，你要去试一下。 这是一个科]]></description>
-</item><item>
-    <title>VR、AR 和 MR</title>
-    <link>https://example.com/ar-vr-mr/</link>
-    <pubDate>Sun, 27 Mar 2022 11:34:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/ar-vr-mr/</guid>
-    <description><![CDATA[VR,虚拟现实 Virtual Reality, 可以让用户沉浸其中的由计算机生成的三维虚拟环境，并与现实环境相隔绝。 看到的场景和人物全是“假的”. AR,增强现实 Augmented Real]]></description>
 </item></channel>
 </rss>
