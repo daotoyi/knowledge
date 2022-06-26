@@ -2,12 +2,12 @@
 title = "徐新"
 description = "今日资本"
 date = "2022-06-18 22:37:00"
-lastmod = "2022-06-18 22:38:00"
+lastmod = "2022-06-18 22:48:59"
 categories = ["Motto"]
 draft = false
 +++
 
-## 企业 {#企业}
+## 品牌 {#品牌}
 
 创业失败是必然的，成功是偶然的。
 
