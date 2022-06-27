@@ -1,7 +1,7 @@
 +++
 title = "Hepatitis B"
-date = 2022-04-07T22:38:00+08:00
-lastmod = 2022-04-11T09:57:13+08:00
+date = "2022-04-07 22:38:00"
+lastmod = "2022-06-26 21:32:59"
 categories = ["Health"]
 draft = false
 +++
@@ -27,11 +27,11 @@ draft = false
 
 -   各项表示的意义
 
-<http://files.cn-healthcare.com/upload/20220320/wximg/73061647731062274>
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main//img/202206262130113.png" >}}
 
 -   检查报告说明
 
-<http://files.cn-healthcare.com/upload/20220320/wximg/69041647731062420>
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main//img/202206262131617.png" >}}
 
 
 ## 大/小三阳 {#大-小三阳}
