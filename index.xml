@@ -4,9 +4,16 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 18 Jun 2022 22:38:00 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 26 Jun 2022 20:25:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>纳瓦尔</title>
+    <link>https://example.com/motto-na-wa-er/</link>
+    <pubDate>Sun, 26 Jun 2022 20:25:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/motto-na-wa-er/</guid>
+    <description><![CDATA[代码和媒体就是不需要许可就能使用的杠杆。这两个杠杆是新富背后的杠杆。 (比如你在苹果商店或者 Steam 上架了一个 app，那今后这个软件就可以给你赚钱了]]></description>
+</item><item>
     <title>张琦</title>
     <link>https://example.com/motto-zhangqi/</link>
     <pubDate>Sat, 18 Jun 2022 22:38:00 &#43;0000</pubDate>
@@ -51,30 +58,23 @@
 </item><item>
     <title>Hepatitis B</title>
     <link>https://example.com/hepatitis/</link>
-    <pubDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</pubDate>
+    <pubDate>Thu, 07 Apr 2022 22:38:00 &#43;0000</pubDate>
     <author>作者</author>
     <guid>https://example.com/hepatitis/</guid>
     <description><![CDATA[乙肝 一般来讲，乙肝传播有 母婴传播、血制品接触、性传播、不规范医疗行为 等几种途径。 主要经过 血液和体液传播 ，乙肝病毒无法进入正常的皮肤粘膜、消化]]></description>
 </item><item>
-    <title>片仔癀</title>
-    <link>https://example.com/pian-zei-huang/</link>
-    <pubDate>Thu, 07 Apr 2022 22:38:00 &#43;0800</pubDate>
+    <title>co.,Ltd.</title>
+    <link>https://example.com/common-sense-gong-si-jian-xie/</link>
+    <pubDate>Thu, 07 Apr 2022 22:19:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>https://example.com/pian-zei-huang/</guid>
-    <description><![CDATA[State &ldquo;DONE&rdquo; from [2022-04-07 周四 22:38] 保护肝脏，治疗病毒性肝炎 手术后病人及软组织损伤，促进愈合，提高人体免疫力 改善癌症症状，抑制肿瘤引起的疼痛 祛邪安正，增强免疫力，]]></description>
+    <guid>https://example.com/common-sense-gong-si-jian-xie/</guid>
+    <description><![CDATA[Ltd 和 co., Ltd.（注意加点和分隔符）都是有限公司的意思，是 ompany Limited 的简写。 国内多用 co., Ltd.，因 o.,Ltd.在中国被大量使用，所以也被认可。国际]]></description>
 </item><item>
-    <title>任泽平：多元化</title>
-    <link>https://example.com/ren-ze-ping/</link>
-    <pubDate>Thu, 07 Apr 2022 22:33:00 &#43;0800</pubDate>
+    <title>大功率的充电器会把手机充坏吗？</title>
+    <link>https://example.com/common-sense-dian-zi-she-bei-da-gong-lv-chong-dian/</link>
+    <pubDate>Thu, 07 Apr 2022 18:18:00 &#43;0000</pubDate>
     <author>作者</author>
-    <guid>https://example.com/ren-ze-ping/</guid>
-    <description><![CDATA[正如任泽平所言： 多元化大多失败，可谓九死一生。做好一件事情已经很难，同时出圈跨界做好几件事情难上加难，你的经验、精力、能力圈、团队等很难兼顾]]></description>
-</item><item>
-    <title>Musk</title>
-    <link>https://example.com/life-musk/</link>
-    <pubDate>Thu, 07 Apr 2022 22:32:00 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/life-musk/</guid>
-    <description><![CDATA[为了实现他的梦想，马斯克付出的努力，物理、心理、精神等各个层面的努力，是常人无法想象的。他认为：“生命是短暂的，如果你真的意识到这一点，你就]]></description>
+    <guid>https://example.com/common-sense-dian-zi-she-bei-da-gong-lv-chong-dian/</guid>
+    <description><![CDATA[充电器的输出功率越大，充电速度就越快，而 V/A 就决定着充电器的输出功率的大小。 充电器在给手机充电的时候，它们俩会进行一系列的通讯、交流，能够随时]]></description>
 </item></channel>
 </rss>

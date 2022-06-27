@@ -22,11 +22,11 @@
 
 -   各项表示的意义
 
-<http://files.cn-healthcare.com/upload/20220320/wximg/73061647731062274>
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main//img/202206262130113.png" >}}
 
 -   检查报告说明
 
-<http://files.cn-healthcare.com/upload/20220320/wximg/69041647731062420>
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main//img/202206262131617.png" >}}
 
 
 ## 大/小三阳 {#大-小三阳}
