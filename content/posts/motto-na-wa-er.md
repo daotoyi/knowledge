@@ -1,7 +1,7 @@
 +++
 title = "纳瓦尔"
 date = "2022-06-26 20:25:00"
-lastmod = "2022-06-26 20:26:04"
+lastmod = "2022-06-29 12:50:59"
 categories = ["Motto"]
 draft = false
 +++

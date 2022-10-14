@@ -1,10 +1,12 @@
-+++
-title = "VR、AR 和 MR"
-date = 2022-03-27T11:34:00+08:00
-lastmod = 2022-04-05T10:16:49+08:00
-categories = ["Concept"]
-draft = false
-+++
+---
+title: "VR、AR 和 MR"
+date: "2022-03-27 11:34:00"
+lastmod: "2022-06-29 14:18:16"
+tags: ["AR"]
+categories: ["Concept"]
+draft: false
+toc: true
+---
 
 ## VR,虚拟现实 {#vr-虚拟现实}
 

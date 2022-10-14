@@ -1,9 +1,11 @@
-+++
-title = "居住证,工作居住证,北京户口"
-lastmod = 2022-03-27T10:47:05+08:00
-categories = ["Concept"]
-draft = true
-+++
+---
+title: "居住证,工作居住证,北京户口"
+date: "2022-03-27 10:58:00"
+lastmod: "2022-07-01 14:36:29"
+categories: ["Concept"]
+draft: false
+toc: true
+---
 
 ## 对比 {#对比}
 

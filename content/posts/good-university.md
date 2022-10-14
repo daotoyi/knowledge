@@ -1,7 +1,7 @@
 +++
 title = "好大学"
-date = 2022-04-07T22:25:00+08:00
-lastmod = 2022-04-14T08:22:34+08:00
+date = "2022-04-07 22:25:00"
+lastmod = "2022-07-01 12:20:05"
 categories = ["Information"]
 draft = false
 +++
