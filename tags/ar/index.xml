@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AR - 标签 - 道一</title>
+        <link>https://example.com/tags/ar/</link>
+        <description>AR - 标签 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Mar 2022 11:34:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/tags/ar/" rel="self" type="application/rss+xml" /><item>
+    <title>VR、AR 和 MR</title>
+    <link>https://example.com/ar-vr-mr/</link>
+    <pubDate>Sun, 27 Mar 2022 11:34:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/ar-vr-mr/</guid>
+    <description><![CDATA[VR,虚拟现实 Virtual Reality, 可以让用户沉浸其中的由计算机生成的三维虚拟环境，并与现实环境相隔绝。 看到的场景和人物全是“假的”. AR,增强现实 Augmented Real]]></description>
+</item></channel>
+</rss>
