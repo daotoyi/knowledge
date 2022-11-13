@@ -1,7 +1,7 @@
 +++
-title = "基本概念"
+title = "房地产概念"
 date = "2022-10-14 23:30:00"
-lastmod = "2022-11-08 21:20:24"
+lastmod = "2022-11-13 19:46:56"
 categories = ["房地产"]
 draft = false
 +++
