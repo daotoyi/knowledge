@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>房地产 - 分类 - 道一</title>
+        <link>https://example.com/categories/%E6%88%BF%E5%9C%B0%E4%BA%A7/</link>
+        <description>房地产 - 分类 - 道一</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Nov 2022 11:48:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/categories/%E6%88%BF%E5%9C%B0%E4%BA%A7/" rel="self" type="application/rss+xml" /><item>
+    <title>小区名称</title>
+    <link>https://example.com/realestate-community-name/</link>
+    <pubDate>Sun, 13 Nov 2022 11:48:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/realestate-community-name/</guid>
+    <description><![CDATA[馆:代表小盘； 城:代表大盘； 园:代表刚需? 小区的亮点是绿化，基本能占小区面积的一半儿. 苑:代表回迁? 园和苑同音 府:代表轻奢； 庄:代表豪气； 岛]]></description>
+</item><item>
+    <title>房地产政策</title>
+    <link>https://example.com/realestate-policy/</link>
+    <pubDate>Fri, 21 Oct 2022 19:14:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/realestate-policy/</guid>
+    <description><![CDATA[三道红线 2020 年 8 月，央行、银保监会等机构针对房地产企业提出的指标，即剔除预收款项后资产负债率不超过 70%、净负债率不超过 100%、现金短债比大]]></description>
+</item><item>
+    <title>房地产概念</title>
+    <link>https://example.com/realestate-basic-conception/</link>
+    <pubDate>Fri, 14 Oct 2022 23:30:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/realestate-basic-conception/</guid>
+    <description><![CDATA[容积率 （Plot Ratio/Floor Area Ratio/Volume Fraction） 是指一个小区的地上建筑总面积与净用地面积的比率。又称 建筑面积毛密度 。 容积率的值通常是以地块面积为 1，]]></description>
+</item></channel>
+</rss>
