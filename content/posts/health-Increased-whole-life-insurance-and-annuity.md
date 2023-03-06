@@ -1,7 +1,7 @@
 ---
 title: "增额终身寿险/年金"
 date: "2023-01-02 23:12:00"
-lastmod: "2023-01-03 16:34:35"
+lastmod: "2023-01-03 17:07:31"
 categories: ["Health"]
 draft: false
 ---
@@ -15,13 +15,16 @@ draft: false
 -   增额寿险和定额终身寿险
     ![](https://pub-naibabao-com-1302155418.cos.ap-guangzhou.myqcloud.com/2022/12/28/58086723.png)
 
+    {{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202301031706274.png" >}}
+
 -   增额寿险 VS 年金
     ![](https://pub-naibabao-com-1302155418.cos.ap-guangzhou.myqcloud.com/2022/12/28/67965940.png)
 
+    {{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202301031706824.png" >}}
 -   增额寿险 VS 年金收益情况
     ![](https://pub-naibabao-com-1302155418.cos.ap-guangzhou.myqcloud.com/2022/12/28/65118677.png)
 
-<!--listend-->
+    {{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202301031706002.png" >}}
 
 -   增额终身寿险具备明确的保单权益属性，可以通过指定受益人实现定向的财富传承.
 -   《保险法》第四十二条规定，只要是指定受益人领取的保险金，将不再是被保险人的遗产。
