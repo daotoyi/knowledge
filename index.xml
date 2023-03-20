@@ -4,9 +4,58 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 02 Jan 2023 23:12:00 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 06 Feb 2023 16:10:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>GNSS 全球导航卫星系统</title>
+    <link>https://example.com/concept-gnss/</link>
+    <pubDate>Mon, 06 Feb 2023 16:10:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/concept-gnss/</guid>
+    <description><![CDATA[全球导航卫星系统（Global Navigation Satellite System），它是泛指所有的卫星导航系统，包括全球的、区域的和增强的，如美国的 GPS、俄罗斯的 Glona]]></description>
+</item><item>
+    <title>FT 账户</title>
+    <link>https://example.com/development-ft-account/</link>
+    <pubDate>Fri, 03 Feb 2023 17:51:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/development-ft-account/</guid>
+    <description><![CDATA[自由贸易账户 是指银行等金融机构根据客户需要在自贸试验区分账核算单元开立的规则统一的本外币账户，独立于现有的传统账户体系，属于央行账户体系的专]]></description>
+</item><item>
+    <title>信用卡飞机延误险</title>
+    <link>https://example.com/common-sense-credit-card-flight-delay-insurance/</link>
+    <pubDate>Fri, 20 Jan 2023 22:42:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/common-sense-credit-card-flight-delay-insurance/</guid>
+    <description><![CDATA[简介 民航新规定正式实施，其中对【延误】有了明确的规定，而且把延误细分为了【航班延误】、【航班出港延误】、【机上延误】三种。 &ldquo;航班]]></description>
+</item><item>
+    <title>保险</title>
+    <link>https://example.com/common-sense-insurance-protection/</link>
+    <pubDate>Sat, 07 Jan 2023 23:19:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/common-sense-insurance-protection/</guid>
+    <description><![CDATA[基本概念 保险金额 保险金额又简称“保额”，是保险合同签订之后，保险人对被保险人承担损失补偿的最高限额，也就是在发生保单规定的保险事故之后，保险]]></description>
+</item><item>
+    <title>社保</title>
+    <link>https://example.com/common-sense-social-security/</link>
+    <pubDate>Sat, 07 Jan 2023 23:17:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/common-sense-social-security/</guid>
+    <description><![CDATA[社保 社保内容 社保包含了 等 5 个保险。 医保 养老 失业 工伤 生育 多地缴纳 我国社保目前实行地方缴纳，并且没有联网，同一个人可以同时在两地缴纳社保。重复缴]]></description>
+</item><item>
+    <title>微信账号</title>
+    <link>https://example.com/wechat-account/</link>
+    <pubDate>Sat, 07 Jan 2023 15:46:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/wechat-account/</guid>
+    <description><![CDATA[公众号 订阅号：主要偏于为用户传达资讯（类似报纸杂志），认证前后都是每天只可以群发一条消息； 服务号：主要偏于服务交互（类似银行，114，提供服]]></description>
+</item><item>
+    <title>商标</title>
+    <link>https://example.com/commerce-trademark/</link>
+    <pubDate>Wed, 04 Jan 2023 23:27:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commerce-trademark/</guid>
+    <description><![CDATA[链接 国家知识产权局商标局 中国商标网 如何选商标分类，让10个小类物超所值 商标分类表45类明细2022更新 简述 商标分为一共为 45 类，1到 34 类为商品]]></description>
+</item><item>
     <title>增额终身寿险/年金</title>
     <link>https://example.com/health-increased-whole-life-insurance-and-annuity/</link>
     <pubDate>Mon, 02 Jan 2023 23:12:00 &#43;0000</pubDate>
@@ -27,54 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/header-beijing-puhui-health-treasure/</guid>
     <description><![CDATA[简介 “北京普惠健康保”由北京市医疗保障局、北京市地方金融监督管理局共同指导，由中国银行保险监督管理委员会北京监管局监督的普惠商业健康保险. 对]]></description>
-</item><item>
-    <title>个人养老金</title>
-    <link>https://example.com/health-personal-pension/</link>
-    <pubDate>Sun, 01 Jan 2023 11:30:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/health-personal-pension/</guid>
-    <description><![CDATA[基本情况 个人养老金终于在 2022 岁末落地。 参加要求 只要参加了城镇职工基本养老保险或者城乡居民基本养老保险就可以参加个人养老金制度，无论您是个体工商]]></description>
-</item><item>
-    <title>公司未经营无流水</title>
-    <link>https://example.com/commerce-non-operating-flow/</link>
-    <pubDate>Thu, 22 Dec 2022 10:55:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-non-operating-flow/</guid>
-    <description><![CDATA[公司不宜超过 6 个月无在册员工. 公司没有经营，没有收入，没有产生税费，是不用缴税款的。按照实际经营情况 0 申报就行。 但是开了对公账户，长期没有流]]></description>
-</item><item>
-    <title>个体户纳税</title>
-    <link>https://example.com/commerce-self-employed-pay-taxes/</link>
-    <pubDate>Thu, 22 Dec 2022 08:51:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-self-employed-pay-taxes/</guid>
-    <description><![CDATA[个体户需要交的三种税： 增值税 附加费 个人所得税 增值税 小规模纳税人，月销售额未超过 10 万元（以 1 个季度为 1 个纳税期的，季度销售额未超过 30 万元）的，]]></description>
-</item><item>
-    <title>公司经营范围</title>
-    <link>https://example.com/commerce-business-scope/</link>
-    <pubDate>Thu, 22 Dec 2022 08:50:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-business-scope/</guid>
-    <description><![CDATA[经营范围 经营范围：指企业可以从事的生产经营与服务项目。 公司的经营范围是公司非常重要的信息之一， 直接决定了公司适用的税种、税率以及是否需要申办]]></description>
-</item><item>
-    <title>创业公司的成本</title>
-    <link>https://example.com/commerce-company-startup-cost/</link>
-    <pubDate>Thu, 22 Dec 2022 08:50:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-company-startup-cost/</guid>
-    <description><![CDATA[参考 创业开一家公司的主要成本和费用 新注册公司如何记账报税？]]></description>
-</item><item>
-    <title>公司/合伙企业</title>
-    <link>https://example.com/commerce-company-enterprise/</link>
-    <pubDate>Mon, 19 Dec 2022 19:26:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-company-enterprise/</guid>
-    <description><![CDATA[有限公司 有限公司包括有限责任公司，分为： 有限责任公司 股份有限公司 无论有限公司还是股份公司，他们最大的特点就是 股东对公司承担的责任是有限的，并]]></description>
-</item><item>
-    <title>国籍 绿卡 永居 护照</title>
-    <link>https://example.com/common-sense-nationality/</link>
-    <pubDate>Sat, 17 Dec 2022 11:17:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-nationality/</guid>
-    <description><![CDATA[永久居留权 permanent residence 指个人得到许可永久居留于某地的权利，但不一定享有公民权。拥有永久居留权的人称作“永久居民”。 绿卡 green card 官方名称为“永久居民卡”。]]></description>
 </item></channel>
 </rss>
