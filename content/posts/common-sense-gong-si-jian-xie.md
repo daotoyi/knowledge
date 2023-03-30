@@ -1,7 +1,7 @@
 +++
-title = "co.,Ltd."
+title = "公司简称 co.,和 Ltd."
 date = "2022-04-07 22:19:00"
-lastmod = "2022-06-27 10:59:04"
+lastmod = "2023-03-25 09:59:02"
 categories = ["常识"]
 draft = false
 +++
