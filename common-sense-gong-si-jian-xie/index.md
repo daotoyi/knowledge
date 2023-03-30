@@ -1,4 +1,4 @@
-# co.,Ltd.
+# 公司简称 co.,和 Ltd.
 
 
 Ltd 和 co., Ltd.（注意加点和分隔符）都是有限公司的意思，是 ompany Limited 的简写。

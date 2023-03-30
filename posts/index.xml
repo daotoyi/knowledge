@@ -4,7 +4,42 @@
         <link>https://example.com/posts/</link>
         <description>所有文章 | 道一</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 06 Feb 2023 16:10:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 26 Mar 2023 12:25:52 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>个体户/公司及年报</title>
+    <link>https://example.com/commerce-annual-report/</link>
+    <pubDate>Sun, 26 Mar 2023 12:25:52 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commerce-annual-report/</guid>
+    <description><![CDATA[个体户 公司 个体户与公司区别 组织形式不同 法人资格 个体工商户不具备法人资格，公司具备法人资格。 连带责任 个体工商户是无限连带责任法律，有限责任公司]]></description>
+</item><item>
+    <title>个体户/个人独资企业/个人有限公司</title>
+    <link>https://example.com/commerce-self-employed-and-sole-proprietorship-company/</link>
+    <pubDate>Sun, 26 Mar 2023 12:25:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commerce-self-employed-and-sole-proprietorship-company/</guid>
+    <description><![CDATA[个人独资企业 个人独资企业是介于一人独资有限责任公司和个体工商户之间的企业型态。个人独资企业具有灵活经营的特点和优惠的税收政策。 区别 独资企业，]]></description>
+</item><item>
+    <title>个体工商户及开票</title>
+    <link>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</link>
+    <pubDate>Sun, 26 Mar 2023 11:37:31 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</guid>
+    <description><![CDATA[个体户不需要交企业所得税，只需缴纳个人所得税，按经营所得适用 5%-35%的 5 级超额累进税率。 个体户核定征收一般分为两种： 定期定额 不考虑营收，]]></description>
+</item><item>
+    <title>餐饮税率</title>
+    <link>https://example.com/taxation-catering/</link>
+    <pubDate>Sun, 26 Mar 2023 11:06:01 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/taxation-catering/</guid>
+    <description><![CDATA[餐饮发票的税率可以出现 6%、3%、1%和免税。 餐饮服务业的一般纳税人，可以开具 6%和免税餐饮发票。 小规纳税人，可以开具 3%、1%和免税餐饮发]]></description>
+</item><item>
+    <title>交通｜航空，铁路</title>
+    <link>https://example.com/common-sense-trafic/</link>
+    <pubDate>Sat, 25 Mar 2023 10:10:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/common-sense-trafic/</guid>
+    <description><![CDATA[航空 航旅纵横 定位是“坐飞机就用航旅纵横”，因为这个 app 是民航局官方应用。 所有的数据都是官方数据，准确度很高，甚至比机场的播报效率还要快一拍。 飞]]></description>
+</item><item>
     <title>GNSS 全球导航卫星系统</title>
     <link>https://example.com/concept-gnss/</link>
     <pubDate>Mon, 06 Feb 2023 16:10:00 &#43;0000</pubDate>
@@ -39,40 +74,5 @@
     <author>作者</author>
     <guid>https://example.com/common-sense-social-security/</guid>
     <description><![CDATA[社保 社保内容 社保包含了 等 5 个保险。 医保 养老 失业 工伤 生育 多地缴纳 我国社保目前实行地方缴纳，并且没有联网，同一个人可以同时在两地缴纳社保。重复缴]]></description>
-</item><item>
-    <title>微信账号</title>
-    <link>https://example.com/wechat-account/</link>
-    <pubDate>Sat, 07 Jan 2023 15:46:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/wechat-account/</guid>
-    <description><![CDATA[公众号 订阅号：主要偏于为用户传达资讯（类似报纸杂志），认证前后都是每天只可以群发一条消息； 服务号：主要偏于服务交互（类似银行，114，提供服]]></description>
-</item><item>
-    <title>商标</title>
-    <link>https://example.com/commerce-trademark/</link>
-    <pubDate>Wed, 04 Jan 2023 23:27:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-trademark/</guid>
-    <description><![CDATA[链接 国家知识产权局商标局 中国商标网 如何选商标分类，让10个小类物超所值 商标分类表45类明细2022更新 简述 商标分为一共为 45 类，1到 34 类为商品]]></description>
-</item><item>
-    <title>增额终身寿险/年金</title>
-    <link>https://example.com/health-increased-whole-life-insurance-and-annuity/</link>
-    <pubDate>Mon, 02 Jan 2023 23:12:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/health-increased-whole-life-insurance-and-annuity/</guid>
-    <description><![CDATA[对比 增额终身寿险，是指保额会不断增长，每年 3.5%的利率复利积累，现金价值也会越来越高的终身寿险。 增额寿险的预定利率上限一直都是 3.5%. 增额寿险和]]></description>
-</item><item>
-    <title>个体户/公司及年报</title>
-    <link>https://example.com/commerce-annual-report/</link>
-    <pubDate>Mon, 02 Jan 2023 18:49:13 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-annual-report/</guid>
-    <description><![CDATA[个体户 公司 个体户与公司区别 组织形式不同 法人资格 个体工商户不具备法人资格，公司具备法人资格。 连带责任 个体工商户是无限连带责任法律，有限责任公司]]></description>
-</item><item>
-    <title>北京普惠健康保</title>
-    <link>https://example.com/header-beijing-puhui-health-treasure/</link>
-    <pubDate>Sun, 01 Jan 2023 11:32:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/header-beijing-puhui-health-treasure/</guid>
-    <description><![CDATA[简介 “北京普惠健康保”由北京市医疗保障局、北京市地方金融监督管理局共同指导，由中国银行保险监督管理委员会北京监管局监督的普惠商业健康保险. 对]]></description>
 </item></channel>
 </rss>
