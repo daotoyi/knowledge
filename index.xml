@@ -4,9 +4,23 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 26 Mar 2023 12:25:52 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 17 Jun 2023 10:39:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>资源下载链接</title>
+    <link>https://example.com/common-sense-source-download/</link>
+    <pubDate>Sat, 17 Jun 2023 10:39:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/common-sense-source-download/</guid>
+    <description><![CDATA[BT BT 是目前最热门的下载方式之一，它的全称为“BitTorrent”简称“BT”，中文全称“比特流”。 BT 服务器是通过一种传销的方式来实现文件共]]></description>
+</item><item>
+    <title>碳资产</title>
+    <link>https://example.com/cogniton-tan-zi-chan/</link>
+    <pubDate>Thu, 30 Mar 2023 08:57:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/cogniton-tan-zi-chan/</guid>
+    <description><![CDATA[碳概念 碳资产 指强制碳排放权交易机制或者自愿排放权交易机制下,产生的可以直接或间接影响组织温室气体排放的配额排放权、减排信用额及相关活动。 碳排]]></description>
+</item><item>
     <title>个体户/公司及年报</title>
     <link>https://example.com/commerce-annual-report/</link>
     <pubDate>Sun, 26 Mar 2023 12:25:52 &#43;0000</pubDate>
@@ -62,19 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/common-sense-credit-card-flight-delay-insurance/</guid>
     <description><![CDATA[简介 民航新规定正式实施，其中对【延误】有了明确的规定，而且把延误细分为了【航班延误】、【航班出港延误】、【机上延误】三种。 &ldquo;航班]]></description>
-</item><item>
-    <title>保险</title>
-    <link>https://example.com/common-sense-insurance-protection/</link>
-    <pubDate>Sat, 07 Jan 2023 23:19:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-insurance-protection/</guid>
-    <description><![CDATA[基本概念 保险金额 保险金额又简称“保额”，是保险合同签订之后，保险人对被保险人承担损失补偿的最高限额，也就是在发生保单规定的保险事故之后，保险]]></description>
-</item><item>
-    <title>社保</title>
-    <link>https://example.com/common-sense-social-security/</link>
-    <pubDate>Sat, 07 Jan 2023 23:17:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-social-security/</guid>
-    <description><![CDATA[社保 社保内容 社保包含了 等 5 个保险。 医保 养老 失业 工伤 生育 多地缴纳 我国社保目前实行地方缴纳，并且没有联网，同一个人可以同时在两地缴纳社保。重复缴]]></description>
 </item></channel>
 </rss>
