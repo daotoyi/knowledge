@@ -4,9 +4,16 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 17 Jun 2023 10:39:00 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 18 Jun 2023 23:15:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>行政级别划分</title>
+    <link>https://example.com/common-sense-xinzhengjibie/</link>
+    <pubDate>Sun, 18 Jun 2023 23:15:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/common-sense-xinzhengjibie/</guid>
+    <description><![CDATA[我国的行政职级从上到下主要有: 国级 省部级 厅局级 县处级 科级 其中又有正副之分。 正国级 中央政治局常委，党总书记、国务院总理、全国人大委员长、全国政]]></description>
+</item><item>
     <title>资源下载链接</title>
     <link>https://example.com/common-sense-source-download/</link>
     <pubDate>Sat, 17 Jun 2023 10:39:00 &#43;0000</pubDate>
@@ -69,12 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/development-ft-account/</guid>
     <description><![CDATA[自由贸易账户 是指银行等金融机构根据客户需要在自贸试验区分账核算单元开立的规则统一的本外币账户，独立于现有的传统账户体系，属于央行账户体系的专]]></description>
-</item><item>
-    <title>信用卡飞机延误险</title>
-    <link>https://example.com/common-sense-credit-card-flight-delay-insurance/</link>
-    <pubDate>Fri, 20 Jan 2023 22:42:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-credit-card-flight-delay-insurance/</guid>
-    <description><![CDATA[简介 民航新规定正式实施，其中对【延误】有了明确的规定，而且把延误细分为了【航班延误】、【航班出港延误】、【机上延误】三种。 &ldquo;航班]]></description>
 </item></channel>
 </rss>

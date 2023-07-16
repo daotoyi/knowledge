@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://example.com/categories/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/categories/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://example.com/en/categories/"
@@ -11,10 +11,10 @@
                     hreflang="zh-cn"
                     href="https://example.com/categories/"
                     /></url><url>
-            <loc>https://example.com/posts/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E5%B8%B8%E8%AF%86/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-source-download/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/posts/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E5%B8%B8%E8%AF%86/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-xinzhengjibie/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://example.com/en/"
@@ -23,41 +23,42 @@
                     hreflang="zh-cn"
                     href="https://example.com/"
                     /></url><url>
-            <loc>https://example.com/categories/cognition/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/cogniton-tan-zi-chan/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/commerce/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-annual-report/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-self-employed-and-sole-proprietorship-company/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E7%A8%8E%E5%8A%A1/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/taxation-catering/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-trafic/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/concept/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/concept-gnss/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/development-ft-account/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E5%8F%91%E5%B1%95/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-credit-card-flight-delay-insurance/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-insurance-protection/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-social-security/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/wechat-account/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-trademark/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/health/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/health-increased-whole-life-insurance-and-annuity/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/header-beijing-puhui-health-treasure/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/health-personal-pension/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-non-operating-flow/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-self-employed-pay-taxes/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-business-scope/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-company-startup-cost/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/commerce-company-enterprise/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-nationality/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/bu-luo-fen/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E6%88%BF%E5%9C%B0%E4%BA%A7/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/realestate-first-suit-tax-refund/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/realestate-loans/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/realestate-community-name/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/realestate-policy/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tags/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/common-sense-source-download/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/cognition/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/cogniton-tan-zi-chan/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/commerce/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-annual-report/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-self-employed-and-sole-proprietorship-company/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E7%A8%8E%E5%8A%A1/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/taxation-catering/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-trafic/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/concept/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/concept-gnss/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/development-ft-account/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E5%8F%91%E5%B1%95/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-credit-card-flight-delay-insurance/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-insurance-protection/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-social-security/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/wechat-account/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-trademark/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/health/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/health-increased-whole-life-insurance-and-annuity/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/header-beijing-puhui-health-treasure/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/health-personal-pension/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-non-operating-flow/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-self-employed-pay-taxes/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-business-scope/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-company-startup-cost/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/commerce-company-enterprise/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-nationality/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/bu-luo-fen/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E6%88%BF%E5%9C%B0%E4%BA%A7/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/realestate-first-suit-tax-refund/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/realestate-loans/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/realestate-community-name/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/realestate-policy/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://example.com/en/tags/"
@@ -66,67 +67,67 @@
                     hreflang="zh-cn"
                     href="https://example.com/tags/"
                     /></url><url>
-            <loc>https://example.com/common-sense-tax-amount/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/economic-tax-amount/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/taxation-amount/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tags/%E7%A8%8E%E5%8A%A1/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E7%BB%8F%E6%B5%8E/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-realestate/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/realestate-basic-conception/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-word-formate/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/concept-stem/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/concept-devops/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E5%91%A8%E6%98%93/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/zhouyi-tuisuan-ganzhi/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/information/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/information-gaokao-zhiyuan/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/cognition-principles-for-dealing-with-the-changing-world-order/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tags/web3/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/concept-web3/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/motto/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/motto-na-wa-er/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/motto-zhangqi/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/motto-daoshenghefu/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/motto-xuxin/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/fan-dao-guo-jia/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/workplace/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/dong-mi/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/bing-lang/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/hepatitis/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/good-university/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-gong-si-jian-xie/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/common-sense-dian-zi-she-bei-da-gong-lv-chong-dian/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/pian-zei-huang/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/view/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/ren-ze-ping/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/musk/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/life-musk/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/jin-ji-lian-fen-xi-fa/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/niao-suan-piao-ling/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/huawei-watch-ecg/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/medicine/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/dou-xing-xin-lv/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/low-expectations-and-try-a-lot/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tags/ar/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/ar-vr-mr/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/residence-permit/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/reduct-dimension/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/selection/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/tan-zhong-he/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/hongquan/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/english-abbreviations-in-email/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/mind-change-body/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/gaokao-fangfalun/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/du-shu-yu-huan-jing/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/invest/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/securities-history-back/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/estate/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/estate-xi-an/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E4%B8%AD%E5%8C%BB/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/ji-zhui-yu-shen-ti-jian-kang/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/categories/%E5%8F%A4%E6%96%87/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/cai-gen-tan/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/dao-de-jin/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-tax-amount/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/economic-tax-amount/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/taxation-amount/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/%E7%A8%8E%E5%8A%A1/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E7%BB%8F%E6%B5%8E/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-realestate/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/realestate-basic-conception/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-word-formate/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/concept-stem/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/concept-devops/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E5%91%A8%E6%98%93/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/zhouyi-tuisuan-ganzhi/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/information/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/information-gaokao-zhiyuan/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/cognition-principles-for-dealing-with-the-changing-world-order/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/web3/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/concept-web3/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/motto/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/motto-na-wa-er/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/motto-zhangqi/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/motto-daoshenghefu/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/motto-xuxin/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/fan-dao-guo-jia/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/workplace/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dong-mi/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/bing-lang/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/hepatitis/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/good-university/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-gong-si-jian-xie/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/common-sense-dian-zi-she-bei-da-gong-lv-chong-dian/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/pian-zei-huang/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/view/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/ren-ze-ping/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/musk/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/life-musk/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/jin-ji-lian-fen-xi-fa/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/niao-suan-piao-ling/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/huawei-watch-ecg/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/medicine/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dou-xing-xin-lv/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/low-expectations-and-try-a-lot/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/ar/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/ar-vr-mr/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/residence-permit/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/reduct-dimension/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/selection/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tan-zhong-he/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/hongquan/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/english-abbreviations-in-email/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/mind-change-body/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/gaokao-fangfalun/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/du-shu-yu-huan-jing/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/invest/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/securities-history-back/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/estate/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/estate-xi-an/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E4%B8%AD%E5%8C%BB/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/ji-zhui-yu-shen-ti-jian-kang/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/%E5%8F%A4%E6%96%87/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/cai-gen-tan/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/dao-de-jin/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.com/about/</loc><priority>0</priority></url><url>
-            <loc>https://example.com/pan-duan-chuang-ye-xiang-mu/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.com/simple-interest-compound-interest-and-irr/</loc><lastmod>2023-06-17T19:58:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://example.com/pan-duan-chuang-ye-xiang-mu/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/simple-interest-compound-interest-and-irr/</loc><lastmod>2023-07-16T10:58:37&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
