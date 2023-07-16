@@ -1,10 +1,11 @@
-+++
-title = "碳中和"
-date = 2022-03-12T21:16:00+08:00
-lastmod = 2022-03-13T17:15:12+08:00
-categories = ["Cognition"]
-draft = false
-+++
+---
+title: "碳中和"
+date: "2022-03-12 21:16:00"
+lastmod: "2023-07-02 17:48:18"
+categories: ["Cognition"]
+draft: false
+toc: true
+---
 
 ## 《蒙特利尔协议》 {#蒙特利尔协议}
 

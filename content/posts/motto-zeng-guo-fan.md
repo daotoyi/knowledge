@@ -1,6 +1,6 @@
 ---
 title: "曾国藩"
-lastmod: "2022-10-22 08:14:30"
+lastmod: "2023-07-01 10:52:29"
 categories: ["Motto"]
 draft: true
 ---
