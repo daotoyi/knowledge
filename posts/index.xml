@@ -4,7 +4,35 @@
         <link>https://example.com/posts/</link>
         <description>所有文章 | 道一</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 18 Jun 2023 23:15:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Aug 2023 21:25:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>超额累进税率</title>
+    <link>https://example.com/taxation-progressive-tax-rate-in-excess-of-specific-amount/</link>
+    <pubDate>Mon, 14 Aug 2023 21:25:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/taxation-progressive-tax-rate-in-excess-of-specific-amount/</guid>
+    <description><![CDATA[超额累进税率 超额累进税率为“全额累进税率”的对称。分别以征税对象的超额部分为基础计征税款的累进税率。是累进税率的一种。凡税基每超过一个级距时]]></description>
+</item><item>
+    <title>股权转让缴税</title>
+    <link>https://example.com/taxation-stock-right-transfer/</link>
+    <pubDate>Wed, 02 Aug 2023 08:02:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/taxation-stock-right-transfer/</guid>
+    <description><![CDATA[缴税项目 印花税 股权转让要签股权转让合同或协议，而法规规定交易合同是需要贴花缴纳印花税的。 义务人 为立据人 即转让人和受让人。 换句话说，印花税是对]]></description>
+</item><item>
+    <title>拨号/带宽上网</title>
+    <link>https://example.com/concept-link-internet/</link>
+    <pubDate>Fri, 28 Jul 2023 20:55:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/concept-link-internet/</guid>
+    <description><![CDATA[ADSL 宽带 非对称数字用户线路，上传和下载速率不对等。 ADSL 猫的作用就是将电话线中的模拟信号和网线中的数字信号相互转换，ADSL 使用了一种叫频分复用技]]></description>
+</item><item>
+    <title>关于读书</title>
+    <link>https://example.com/motto-about-reading/</link>
+    <pubDate>Sun, 16 Jul 2023 07:38:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/motto-about-reading/</guid>
+    <description><![CDATA[列夫·托尔斯泰 知识，只有当它靠积极的思维得来，而不是凭记忆得来的时候，才是真正的知识。]]></description>
+</item><item>
     <title>行政级别划分</title>
     <link>https://example.com/common-sense-xinzhengjibie/</link>
     <pubDate>Sun, 18 Jun 2023 23:15:00 &#43;0000</pubDate>
@@ -46,33 +74,5 @@
     <author>作者</author>
     <guid>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</guid>
     <description><![CDATA[个体户不需要交企业所得税，只需缴纳个人所得税，按经营所得适用 5%-35%的 5 级超额累进税率。 个体户核定征收一般分为两种： 定期定额 不考虑营收，]]></description>
-</item><item>
-    <title>餐饮税率</title>
-    <link>https://example.com/taxation-catering/</link>
-    <pubDate>Sun, 26 Mar 2023 11:06:01 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/taxation-catering/</guid>
-    <description><![CDATA[餐饮发票的税率可以出现 6%、3%、1%和免税。 餐饮服务业的一般纳税人，可以开具 6%和免税餐饮发票。 小规纳税人，可以开具 3%、1%和免税餐饮发]]></description>
-</item><item>
-    <title>交通｜航空，铁路</title>
-    <link>https://example.com/common-sense-trafic/</link>
-    <pubDate>Sat, 25 Mar 2023 10:10:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-trafic/</guid>
-    <description><![CDATA[航空 航旅纵横 定位是“坐飞机就用航旅纵横”，因为这个 app 是民航局官方应用。 所有的数据都是官方数据，准确度很高，甚至比机场的播报效率还要快一拍。 飞]]></description>
-</item><item>
-    <title>GNSS 全球导航卫星系统</title>
-    <link>https://example.com/concept-gnss/</link>
-    <pubDate>Mon, 06 Feb 2023 16:10:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/concept-gnss/</guid>
-    <description><![CDATA[全球导航卫星系统（Global Navigation Satellite System），它是泛指所有的卫星导航系统，包括全球的、区域的和增强的，如美国的 GPS、俄罗斯的 Glona]]></description>
-</item><item>
-    <title>FT 账户</title>
-    <link>https://example.com/development-ft-account/</link>
-    <pubDate>Fri, 03 Feb 2023 17:51:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/development-ft-account/</guid>
-    <description><![CDATA[自由贸易账户 是指银行等金融机构根据客户需要在自贸试验区分账核算单元开立的规则统一的本外币账户，独立于现有的传统账户体系，属于央行账户体系的专]]></description>
 </item></channel>
 </rss>
