@@ -4,9 +4,23 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 14 Aug 2023 21:25:00 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 16 Sep 2023 09:56:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>版权符号™ ® ©</title>
+    <link>https://example.com/commonsense-copyright-symbol/</link>
+    <pubDate>Sat, 16 Sep 2023 09:56:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commonsense-copyright-symbol/</guid>
+    <description><![CDATA[™ 是英文 trademark 的缩写，其英文作为名词的原意是“（注册） 商标;使用在商标上其含义为注册商标。 在国外，标注 TM 的，即为注册商标。 但是在国内，约定成俗的]]></description>
+</item><item>
+    <title>小微企业/小规模纳税人/小型微利企业</title>
+    <link>https://example.com/commerce-xiaowei-xiaoguimo-xiaoxingweili/</link>
+    <pubDate>Mon, 21 Aug 2023 16:21:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commerce-xiaowei-xiaoguimo-xiaoxingweili/</guid>
+    <description><![CDATA[小规模纳税人是增值税上的概念；小型微型企业是企业所得税上的概念；小微企业是工信部等部门的划分标准。 小规模纳税人 年销售额达不到 500 万元标准且企业]]></description>
+</item><item>
     <title>超额累进税率</title>
     <link>https://example.com/taxation-progressive-tax-rate-in-excess-of-specific-amount/</link>
     <pubDate>Mon, 14 Aug 2023 21:25:00 &#43;0000</pubDate>
@@ -62,19 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/commerce-annual-report/</guid>
     <description><![CDATA[个体户 公司 个体户与公司区别 组织形式不同 法人资格 个体工商户不具备法人资格，公司具备法人资格。 连带责任 个体工商户是无限连带责任法律，有限责任公司]]></description>
-</item><item>
-    <title>个体户/个人独资企业/个人有限公司</title>
-    <link>https://example.com/commerce-self-employed-and-sole-proprietorship-company/</link>
-    <pubDate>Sun, 26 Mar 2023 12:25:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-self-employed-and-sole-proprietorship-company/</guid>
-    <description><![CDATA[个人独资企业 个人独资企业是介于一人独资有限责任公司和个体工商户之间的企业型态。个人独资企业具有灵活经营的特点和优惠的税收政策。 区别 独资企业，]]></description>
-</item><item>
-    <title>个体工商户及开票</title>
-    <link>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</link>
-    <pubDate>Sun, 26 Mar 2023 11:37:31 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/taxation-individual-industrial-and-commercial-enterprises-invoice/</guid>
-    <description><![CDATA[个体户不需要交企业所得税，只需缴纳个人所得税，按经营所得适用 5%-35%的 5 级超额累进税率。 个体户核定征收一般分为两种： 定期定额 不考虑营收，]]></description>
 </item></channel>
 </rss>
