@@ -4,7 +4,14 @@
         <link>https://example.com/posts/</link>
         <description>所有文章 | 道一</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 16 Sep 2023 09:56:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 24 Sep 2023 18:01:59 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>变电站产品</title>
+    <link>https://example.com/electricity-transformer-substation-product/</link>
+    <pubDate>Sun, 24 Sep 2023 18:01:59 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/electricity-transformer-substation-product/</guid>
+    <description><![CDATA[ICE61850 主站总召站端设备.icd 文件，将所有站端设备的信息和可提供的服务生成.scd 文件（全局文件）；主站针对不同的站端设备，下发不同的.cid 文]]></description>
+</item><item>
     <title>版权符号™ ® ©</title>
     <link>https://example.com/commonsense-copyright-symbol/</link>
     <pubDate>Sat, 16 Sep 2023 09:56:00 &#43;0000</pubDate>
@@ -67,12 +74,5 @@
     <author>作者</author>
     <guid>https://example.com/cogniton-tan-zi-chan/</guid>
     <description><![CDATA[碳概念 碳资产 指强制碳排放权交易机制或者自愿排放权交易机制下,产生的可以直接或间接影响组织温室气体排放的配额排放权、减排信用额及相关活动。 碳排]]></description>
-</item><item>
-    <title>个体户/公司及年报</title>
-    <link>https://example.com/commerce-annual-report/</link>
-    <pubDate>Sun, 26 Mar 2023 12:25:52 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-annual-report/</guid>
-    <description><![CDATA[个体户 公司 个体户与公司区别 组织形式不同 法人资格 个体工商户不具备法人资格，公司具备法人资格。 连带责任 个体工商户是无限连带责任法律，有限责任公司]]></description>
 </item></channel>
 </rss>
