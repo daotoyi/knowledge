@@ -1,8 +1,9 @@
 ---
 title: "保险概念"
-lastmod: "2023-01-10 10:27:19"
-categories: ["Health"]
-draft: true
+date: "2023-09-24 22:13:00"
+lastmod: "2023-09-24 22:13:52"
+categories: ["健康"]
+draft: false
 ---
 
 ## IRR （Internal Rate of Return）（内部收益率） {#irr-internal-rate-of-return-内部收益率}
