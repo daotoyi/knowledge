@@ -4,9 +4,23 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 24 Sep 2023 18:01:59 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 24 Sep 2023 22:13:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>保险概念</title>
+    <link>https://example.com/health-ensurance-conception/</link>
+    <pubDate>Sun, 24 Sep 2023 22:13:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/health-ensurance-conception/</guid>
+    <description><![CDATA[IRR （Internal Rate of Return）（内部收益率） 是指资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。 流入投入、产出和净现]]></description>
+</item><item>
+    <title>SNTP 对时原理</title>
+    <link>https://example.com/electricity-time-sync-theory/</link>
+    <pubDate>Sun, 24 Sep 2023 18:57:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/electricity-time-sync-theory/</guid>
+    <description><![CDATA[目前国内 sntp 服务器一般要求精度在 ±50ms 量级，而且由于其受到网络复杂程度和网络环境限制较高，当网络环境较差且上级 sntp 对时服务器级别不高时很难保]]></description>
+</item><item>
     <title>变电站产品</title>
     <link>https://example.com/electricity-transformer-substation-product/</link>
     <pubDate>Sun, 24 Sep 2023 18:01:59 &#43;0000</pubDate>
@@ -42,6 +56,13 @@
     <guid>https://example.com/taxation-stock-right-transfer/</guid>
     <description><![CDATA[缴税项目 印花税 股权转让要签股权转让合同或协议，而法规规定交易合同是需要贴花缴纳印花税的。 义务人 为立据人 即转让人和受让人。 换句话说，印花税是对]]></description>
 </item><item>
+    <title>POS 机</title>
+    <link>https://example.com/commerce-pos-machine/</link>
+    <pubDate>Wed, 02 Aug 2023 07:37:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commerce-pos-machine/</guid>
+    <description><![CDATA[概念 一清机 一清机是指 POS 机结算资金，由收单机构直接打款到商户账户，只有一次清算过程。 一清机通常的标准到账时间是 T+1，如果是周末刷卡，就要顺延]]></description>
+</item><item>
     <title>拨号/带宽上网</title>
     <link>https://example.com/concept-link-internet/</link>
     <pubDate>Fri, 28 Jul 2023 20:55:00 &#43;0000</pubDate>
@@ -55,26 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/motto-about-reading/</guid>
     <description><![CDATA[列夫·托尔斯泰 知识，只有当它靠积极的思维得来，而不是凭记忆得来的时候，才是真正的知识。]]></description>
-</item><item>
-    <title>行政级别划分</title>
-    <link>https://example.com/common-sense-xinzhengjibie/</link>
-    <pubDate>Sun, 18 Jun 2023 23:15:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-xinzhengjibie/</guid>
-    <description><![CDATA[我国的行政职级从上到下主要有: 国级 省部级 厅局级 县处级 科级 其中又有正副之分。 正国级 中央政治局常委，党总书记、国务院总理、全国人大委员长、全国政]]></description>
-</item><item>
-    <title>资源下载链接</title>
-    <link>https://example.com/common-sense-source-download/</link>
-    <pubDate>Sat, 17 Jun 2023 10:39:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/common-sense-source-download/</guid>
-    <description><![CDATA[BT BT 是目前最热门的下载方式之一，它的全称为“BitTorrent”简称“BT”，中文全称“比特流”。 BT 服务器是通过一种传销的方式来实现文件共]]></description>
-</item><item>
-    <title>碳资产</title>
-    <link>https://example.com/cogniton-tan-zi-chan/</link>
-    <pubDate>Thu, 30 Mar 2023 08:57:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/cogniton-tan-zi-chan/</guid>
-    <description><![CDATA[碳概念 碳资产 指强制碳排放权交易机制或者自愿排放权交易机制下,产生的可以直接或间接影响组织温室气体排放的配额排放权、减排信用额及相关活动。 碳排]]></description>
 </item></channel>
 </rss>
