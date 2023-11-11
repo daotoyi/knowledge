@@ -4,9 +4,30 @@
         <link>https://example.com/</link>
         <description>关于 LoveIt 主题</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 24 Sep 2023 22:13:00 &#43;0000</lastBuildDate>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Nov 2023 21:44:00 &#43;0000</lastBuildDate>
             <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>阿拉伯世界的一些基础知识</title>
+    <link>https://example.com/the-arab-world/</link>
+    <pubDate>Fri, 10 Nov 2023 21:44:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/the-arab-world/</guid>
+    <description><![CDATA[地理范围 西起大西洋东至阿拉伯海，北起地中海南至非洲中部。面积约 1420 万平方公里，位于亚、非两大洲的结合部，非洲部分占 72%，亚洲部分占 28%，具]]></description>
+</item><item>
+    <title>遮天三部曲脉络</title>
+    <link>https://example.com/other-chendong-san-bu-qu/</link>
+    <pubDate>Thu, 09 Nov 2023 22:18:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/other-chendong-san-bu-qu/</guid>
+    <description><![CDATA[https://mp.weixin.qq.com/s/3sGNwzmuRv52i1mdCWrVhw 说遮天三部曲的故事，就要先说下境界。修炼体系分为人道领域和仙道领域，人道绝巅是至尊，相当于遮天中的大帝，仙道领域之后分为真仙、仙王、准仙帝]]></description>
+</item><item>
+    <title>X 线、CT、B（彩）超、磁共振</title>
+    <link>https://example.com/health-physical-examination-item/</link>
+    <pubDate>Fri, 06 Oct 2023 17:31:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/health-physical-examination-item/</guid>
+    <description><![CDATA[X 光 X 线又叫伦琴射线，它具备穿透物质的能力，这与超声检查有着本质的区别。 X 光会穿过人体，遇到被遮挡的部位，底片上不会曝光，洗片后这个部位就是]]></description>
+</item><item>
     <title>保险概念</title>
     <link>https://example.com/health-ensurance-conception/</link>
     <pubDate>Sun, 24 Sep 2023 22:13:00 &#43;0000</pubDate>
@@ -55,26 +76,5 @@
     <author>作者</author>
     <guid>https://example.com/taxation-stock-right-transfer/</guid>
     <description><![CDATA[缴税项目 印花税 股权转让要签股权转让合同或协议，而法规规定交易合同是需要贴花缴纳印花税的。 义务人 为立据人 即转让人和受让人。 换句话说，印花税是对]]></description>
-</item><item>
-    <title>POS 机</title>
-    <link>https://example.com/commerce-pos-machine/</link>
-    <pubDate>Wed, 02 Aug 2023 07:37:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-pos-machine/</guid>
-    <description><![CDATA[概念 一清机 一清机是指 POS 机结算资金，由收单机构直接打款到商户账户，只有一次清算过程。 一清机通常的标准到账时间是 T+1，如果是周末刷卡，就要顺延]]></description>
-</item><item>
-    <title>拨号/带宽上网</title>
-    <link>https://example.com/concept-link-internet/</link>
-    <pubDate>Fri, 28 Jul 2023 20:55:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/concept-link-internet/</guid>
-    <description><![CDATA[ADSL 宽带 非对称数字用户线路，上传和下载速率不对等。 ADSL 猫的作用就是将电话线中的模拟信号和网线中的数字信号相互转换，ADSL 使用了一种叫频分复用技]]></description>
-</item><item>
-    <title>关于读书</title>
-    <link>https://example.com/motto-about-reading/</link>
-    <pubDate>Sun, 16 Jul 2023 07:38:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/motto-about-reading/</guid>
-    <description><![CDATA[列夫·托尔斯泰 知识，只有当它靠积极的思维得来，而不是凭记忆得来的时候，才是真正的知识。]]></description>
 </item></channel>
 </rss>
