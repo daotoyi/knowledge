@@ -1,7 +1,7 @@
 ---
 title: "X 线、CT、B（彩）超、磁共振"
 date: "2023-10-06 17:31:00"
-lastmod: "2023-10-06 17:32:58"
+lastmod: "2023-10-28 13:37:45"
 categories: ["健康"]
 draft: false
 ---
