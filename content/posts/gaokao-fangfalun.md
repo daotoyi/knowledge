@@ -1,10 +1,11 @@
-+++
-title = "高考方法论"
-date = 2022-03-12T20:08:00+08:00
-lastmod = 2022-03-12T20:33:31+08:00
-categories = ["View"]
-draft = false
-+++
+---
+title: "高考方法论"
+date: "2022-03-12 20:08:00"
+lastmod: "2023-12-31 09:42:08"
+categories: ["认知"]
+draft: false
+toc: true
+---
 
 ## 高考移民-华侨生联考 {#高考移民-华侨生联考}
 

@@ -1,9 +1,9 @@
 ---
 title: "VR、AR 和 MR"
 date: "2022-03-27 11:34:00"
-lastmod: "2022-06-29 14:18:16"
+lastmod: "2024-01-01 11:10:55"
 tags: ["AR"]
-categories: ["Concept"]
+categories: ["概念"]
 draft: false
 toc: true
 ---

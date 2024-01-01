@@ -1,8 +1,8 @@
 ---
 title: "布洛芬"
 date: "2022-12-11 21:57:00"
-lastmod: "2022-12-11 21:57:31"
-categories: ["Health"]
+lastmod: "2023-12-31 09:36:16"
+categories: ["健康"]
 draft: false
 ---
 

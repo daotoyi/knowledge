@@ -1,9 +1,9 @@
 ---
 title: "Web3.0"
 date: "2022-06-28 19:44:00"
-lastmod: "2022-06-29 14:16:30"
+lastmod: "2024-01-01 11:11:39"
 tags: ["web3"]
-categories: ["Concept"]
+categories: ["概念"]
 draft: false
 toc: true
 ---

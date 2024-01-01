@@ -1,8 +1,8 @@
 ---
 title: "STEM"
 date: "2022-08-28 17:25:00"
-lastmod: "2022-08-28 17:25:56"
-categories: ["Concept"]
+lastmod: "2024-01-01 11:12:08"
+categories: ["概念"]
 draft: false
 toc: true
 ---

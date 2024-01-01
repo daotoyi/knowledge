@@ -1,10 +1,10 @@
-+++
-title = "Huawei Watch ECG"
-date = 2022-04-05T23:21:00+08:00
-lastmod = 2022-04-05T23:22:40+08:00
-categories = ["Medicine"]
-draft = false
-+++
+---
+title: "Huawei Watch ECG"
+date: "2022-04-05 23:21:00"
+lastmod: "2023-12-31 09:48:31"
+categories: ["健康"]
+draft: false
+---
 
 EG 是英文 Electro ardio Graphy 的缩写，中文意思就是心电图。
 

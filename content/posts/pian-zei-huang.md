@@ -1,12 +1,11 @@
-+++
-title = "片仔癀"
-date = 2022-04-07T22:38:00+08:00
-lastmod = 2022-04-07T22:38:56+08:00
-categories = ["Health"]
-draft = false
-+++
+---
+title: "片仔癀"
+date: "2022-04-07 22:38:00"
+lastmod: "2023-12-31 09:36:39"
+categories: ["健康"]
+draft: false
+---
 
--   State "DONE"       from              <span class="timestamp-wrapper"><span class="timestamp">[2022-04-07 周四 22:38]</span></span>
 -   保护肝脏，治疗病毒性肝炎
 -   手术后病人及软组织损伤，促进愈合，提高人体免疫力
 -   改善癌症症状，抑制肿瘤引起的疼痛

@@ -1,8 +1,8 @@
 ---
 title: "原则 变化中的世界秩序"
 date: "2022-07-02 00:20:00"
-lastmod: "2022-07-02 00:26:30"
-categories: ["Cognition"]
+lastmod: "2023-12-31 09:47:30"
+categories: ["认知"]
 draft: false
 toc: true
 ---

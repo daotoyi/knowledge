@@ -1,10 +1,10 @@
-+++
-title = "槟榔"
-date = 2022-04-11T10:55:00+08:00
-lastmod = 2022-04-11T11:43:21+08:00
-categories = ["Health"]
-draft = false
-+++
+---
+title: "槟榔"
+date: "2022-04-11 10:55:00"
+lastmod: "2023-12-31 09:36:28"
+categories: ["健康"]
+draft: false
+---
 
 ## 功效 {#功效}
 

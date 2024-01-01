@@ -1,11 +1,14 @@
 ---
 title: "碳资产"
 date: "2023-03-30 08:57:00"
-lastmod: "2023-03-30 08:57:45"
-categories: ["Cognition"]
+lastmod: "2023-12-31 09:45:44"
+categories: ["认知"]
 draft: false
 toc: true
 ---
+
+k
+
 
 ## 碳概念 {#碳概念}
 
@@ -103,3 +106,5 @@ toc: true
 ## 参考 {#参考}
 
 [一文读懂 | 碳排放、碳达峰、碳中和、碳交易、碳资产、碳管理、碳配额](https://zhuanlan.zhihu.com/p/437943371)
+
+k

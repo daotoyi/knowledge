@@ -1,10 +1,10 @@
-+++
-title = "窦性心律不齐"
-date = 2022-04-05T22:32:00+08:00
-lastmod = 2022-04-05T22:34:40+08:00
-categories = ["Medicine"]
-draft = false
-+++
+---
+title: "窦性心律不齐"
+date: "2022-04-05 22:32:00"
+lastmod: "2023-12-31 09:51:42"
+categories: ["健康"]
+draft: false
+---
 
 ## 概念 {#概念}
 

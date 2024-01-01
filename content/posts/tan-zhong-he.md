@@ -1,8 +1,8 @@
 ---
 title: "碳中和"
 date: "2022-03-12 21:16:00"
-lastmod: "2023-07-02 17:48:18"
-categories: ["Cognition"]
+lastmod: "2023-12-31 09:45:07"
+categories: ["认知"]
 draft: false
 toc: true
 ---

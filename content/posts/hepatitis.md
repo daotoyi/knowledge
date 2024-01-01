@@ -1,10 +1,10 @@
-+++
-title = "Hepatitis B"
-date = "2022-04-07 22:38:00"
-lastmod = "2022-06-26 21:32:59"
-categories = ["Health"]
-draft = false
-+++
+---
+title: "Hepatitis B"
+date: "2022-04-07 22:38:00"
+lastmod: "2023-12-31 09:37:53"
+categories: ["健康"]
+draft: false
+---
 
 ## 乙肝 {#乙肝}
 

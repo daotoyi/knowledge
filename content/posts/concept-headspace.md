@@ -1,8 +1,9 @@
 ---
 title: "Headspace"
-lastmod: "2023-06-17 10:58:37"
+date: "2024-01-01 11:15:00"
+lastmod: "2024-01-01 11:15:45"
 categories: ["概念"]
-draft: true
+draft: false
 toc: true
 ---
 

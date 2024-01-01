@@ -1,10 +1,11 @@
-+++
-title = "经济链分析法-卢克文"
-date = 2022-04-07T22:28:00+08:00
-lastmod = 2022-04-07T22:28:20+08:00
-categories = ["Cognition"]
-draft = false
-+++
+---
+title: "经济链分析法-卢克文"
+date: "2022-04-07 22:28:00"
+lastmod: "2023-12-31 09:47:42"
+categories: ["认知"]
+draft: false
+toc: true
+---
 
 <https://mp.weixin.qq.com/s/8S3pzW6h5-HiupvT5ItYg>
 

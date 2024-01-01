@@ -1,8 +1,8 @@
 ---
 title: "尿酸 嘌呤"
 date: "2022-04-05 22:35:00"
-lastmod: "2022-07-01 12:16:54"
-categories: ["Health"]
+lastmod: "2023-12-31 09:40:31"
+categories: ["健康"]
 draft: false
 ---
 

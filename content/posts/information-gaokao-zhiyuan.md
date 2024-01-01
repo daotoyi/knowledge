@@ -1,8 +1,9 @@
 +++
 title = "高考志愿: 量化"
 date = "2022-07-03 09:51:00"
-lastmod = "2022-07-03 09:51:55"
-categories = ["Information"]
+lastmod = "2023-12-31 09:52:17"
+tags = ["高考"]
+categories = ["信息"]
 draft = false
 +++
 

@@ -1,7 +1,7 @@
 ---
 title: "阿拉伯世界的一些基础知识"
 date: "2023-11-10 21:44:00"
-lastmod: "2023-11-10 21:45:47"
+lastmod: "2023-11-11 22:20:18"
 categories: ["其他"]
 draft: false
 ---
@@ -50,6 +50,8 @@ draft: false
 
 ## 巴以历史 {#巴以历史}
 
-![](https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102138883.png)
-![](https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140015.png)
-![](https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140530.png)
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102138883.png" >}}
+
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140015.png" >}}
+
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140530.png" >}}

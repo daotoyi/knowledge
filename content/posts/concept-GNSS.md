@@ -1,8 +1,8 @@
 ---
 title: "GNSS 全球导航卫星系统"
 date: "2023-02-06 16:10:00"
-lastmod: "2023-02-06 17:31:54"
-categories: ["Concept"]
+lastmod: "2024-01-01 11:12:58"
+categories: ["概念"]
 draft: false
 toc: true
 ---

@@ -1,8 +1,8 @@
 ---
 title: "DevOps"
 date: "2022-08-21 16:19:00"
-lastmod: "2022-08-21 16:19:58"
-categories: ["Concept"]
+lastmod: "2024-01-01 11:12:01"
+categories: ["概念"]
 draft: false
 toc: true
 ---
