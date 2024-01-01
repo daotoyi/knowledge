@@ -1,7 +1,6 @@
 # 片仔癀
 
 
--   State "DONE"       from              <span class="timestamp-wrapper"><span class="timestamp">[2022-04-07 周四 22:38]</span></span>
 -   保护肝脏，治疗病毒性肝炎
 -   手术后病人及软组织损伤，促进愈合，提高人体免疫力
 -   改善癌症症状，抑制肿瘤引起的疼痛

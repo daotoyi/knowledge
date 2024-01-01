@@ -4,7 +4,14 @@
         <link>https://example.com/posts/</link>
         <description>所有文章 | 道一</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Nov 2023 21:44:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 31 Dec 2023 23:08:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>道家</title>
+    <link>https://example.com/taoists/</link>
+    <pubDate>Sun, 31 Dec 2023 23:08:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/taoists/</guid>
+    <description><![CDATA[道教主要分两派，正一派和全真派。 无论全真和正一，皈依是第一步。 第一皈身，皈依太上无极大道。永脱轮回，故曰道宝。 第二皈神，皈依三十六部尊经。得]]></description>
+</item><item>
     <title>阿拉伯世界的一些基础知识</title>
     <link>https://example.com/the-arab-world/</link>
     <pubDate>Fri, 10 Nov 2023 21:44:00 &#43;0000</pubDate>
@@ -25,6 +32,13 @@
     <author>作者</author>
     <guid>https://example.com/health-physical-examination-item/</guid>
     <description><![CDATA[X 光 X 线又叫伦琴射线，它具备穿透物质的能力，这与超声检查有着本质的区别。 X 光会穿过人体，遇到被遮挡的部位，底片上不会曝光，洗片后这个部位就是]]></description>
+</item><item>
+    <title>碳排放交易</title>
+    <link>https://example.com/concept-carbon-emissions-trading/</link>
+    <pubDate>Sun, 24 Sep 2023 22:14:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/concept-carbon-emissions-trading/</guid>
+    <description><![CDATA[碳排放 碳排放交易市场，是指将碳排放的权利作为一种资产标的，来进行公开交易的市场。 碳中和 碳中和通俗来说就是碳排放量的“收支相抵”，是指企业、团]]></description>
 </item><item>
     <title>保险概念</title>
     <link>https://example.com/health-ensurance-conception/</link>
@@ -60,19 +74,5 @@
     <author>作者</author>
     <guid>https://example.com/commerce-xiaowei-xiaoguimo-xiaoxingweili/</guid>
     <description><![CDATA[小规模纳税人是增值税上的概念；小型微型企业是企业所得税上的概念；小微企业是工信部等部门的划分标准。 小规模纳税人 年销售额达不到 500 万元标准且企业]]></description>
-</item><item>
-    <title>超额累进税率</title>
-    <link>https://example.com/taxation-progressive-tax-rate-in-excess-of-specific-amount/</link>
-    <pubDate>Mon, 14 Aug 2023 21:25:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/taxation-progressive-tax-rate-in-excess-of-specific-amount/</guid>
-    <description><![CDATA[超额累进税率 超额累进税率为“全额累进税率”的对称。分别以征税对象的超额部分为基础计征税款的累进税率。是累进税率的一种。凡税基每超过一个级距时]]></description>
-</item><item>
-    <title>股权转让缴税</title>
-    <link>https://example.com/taxation-stock-right-transfer/</link>
-    <pubDate>Wed, 02 Aug 2023 08:02:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/taxation-stock-right-transfer/</guid>
-    <description><![CDATA[缴税项目 印花税 股权转让要签股权转让合同或协议，而法规规定交易合同是需要贴花缴纳印花税的。 义务人 为立据人 即转让人和受让人。 换句话说，印花税是对]]></description>
 </item></channel>
 </rss>

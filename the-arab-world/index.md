@@ -45,6 +45,8 @@
 
 ## 巴以历史 {#巴以历史}
 
-![](https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102138883.png)
-![](https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140015.png)
-![](https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140530.png)
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102138883.png" >}}
+
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140015.png" >}}
+
+{{< figure src="https://raw.githubusercontent.com/daotoyi/picsbed/main/img/202311102140530.png" >}}
