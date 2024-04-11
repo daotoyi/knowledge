@@ -1,8 +1,8 @@
 ---
 title: "个体户/个人独资企业/个人有限公司"
 date: "2023-03-26 12:25:00"
-lastmod: "2023-03-26 12:26:12"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:22:41"
+categories: ["商业"]
 draft: false
 ---
 

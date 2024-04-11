@@ -1,8 +1,8 @@
 ---
 title: "公司经营范围"
 date: "2022-12-22 08:50:00"
-lastmod: "2022-12-22 10:54:23"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:23:55"
+categories: ["商业"]
 draft: false
 ---
 

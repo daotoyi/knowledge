@@ -1,8 +1,8 @@
 ---
 title: "小微企业/小规模纳税人/小型微利企业"
 date: "2023-08-21 16:21:00"
-lastmod: "2023-08-21 16:21:38"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:22:22"
+categories: ["商业"]
 draft: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "商标"
 date: "2023-01-04 23:27:00"
-lastmod: "2023-01-04 23:27:44"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:23:11"
+categories: ["商业"]
 draft: false
 ---
 

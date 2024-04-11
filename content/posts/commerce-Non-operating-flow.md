@@ -1,8 +1,8 @@
 ---
 title: "公司未经营无流水"
 date: "2022-12-22 10:55:00"
-lastmod: "2022-12-22 10:55:33"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:23:39"
+categories: ["商业"]
 draft: false
 ---
 

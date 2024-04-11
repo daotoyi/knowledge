@@ -1,7 +1,7 @@
 ---
 title: "个体户/公司及年报"
-lastmod: "2023-03-26 12:25:52"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:22:32"
+categories: ["商业"]
 draft: false
 ---
 

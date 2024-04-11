@@ -1,8 +1,8 @@
 ---
 title: "创业公司的成本"
 date: "2022-12-22 08:50:00"
-lastmod: "2023-01-01 11:46:49"
-categories: ["Commerce"]
+lastmod: "2024-01-01 17:23:47"
+categories: ["商业"]
 draft: false
 ---
 
