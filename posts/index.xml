@@ -4,7 +4,42 @@
         <link>https://example.com/posts/</link>
         <description>所有文章 | 道一</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>daotoyi@foxmail.com (道一)</managingEditor>
-            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 31 Dec 2023 23:08:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>daotoyi@foxmail.com (道一)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 03 Mar 2024 20:50:00 &#43;0000</lastBuildDate><atom:link href="https://example.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>境外银行卡</title>
+    <link>https://example.com/economic-hongkong-bank-card/</link>
+    <pubDate>Sun, 03 Mar 2024 20:50:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/economic-hongkong-bank-card/</guid>
+    <description><![CDATA[优势 香港，作为国际金融中心，拥有全球最大的银行体系之一。在全球前 100 大银行中，超过 70 家在香港运营，且有 29 家跨国银行在香港设立地区总部。 香港银行]]></description>
+</item><item>
+    <title>股票集合竞价规则</title>
+    <link>https://example.com/economic-stock-call-cution-rule/</link>
+    <pubDate>Sun, 03 Mar 2024 09:18:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/economic-stock-call-cution-rule/</guid>
+    <description><![CDATA[价格优先原则 卖出委托从最低价开始累计，买入委托从最高价开始累计，当卖出委托和买入委托价格平衡时的价格即为集合竞价的成交价 9:15~9:20 可以挂单也可以撤单]]></description>
+</item><item>
+    <title>证券基本概念</title>
+    <link>https://example.com/security-basic-conception/</link>
+    <pubDate>Sun, 03 Mar 2024 09:16:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/security-basic-conception/</guid>
+    <description><![CDATA[基本概念 PE：市盈率 = 股价 / 每股盈利 PB：市净率=股价 / 每股净资产 PS：市销率=股价 / 每股收入=总市值 / 销售收入 ROE：净资产收益率＝报告期]]></description>
+</item><item>
+    <title>个体户/公司及年报</title>
+    <link>https://example.com/commerce-annual-report/</link>
+    <pubDate>Mon, 01 Jan 2024 17:22:32 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/commerce-annual-report/</guid>
+    <description><![CDATA[个体户 公司 个体户与公司区别 组织形式不同 法人资格 个体工商户不具备法人资格，公司具备法人资格。 连带责任 个体工商户是无限连带责任法律，有限责任公司]]></description>
+</item><item>
+    <title>Headspace</title>
+    <link>https://example.com/concept-headspace/</link>
+    <pubDate>Mon, 01 Jan 2024 11:15:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/concept-headspace/</guid>
+    <description><![CDATA[Headspace 冥想指南是 Headspace 和 Vox Media Studios 三个系列中的第一个，后续系列包括《Headspace 睡眠指南》和一段互动体验。]]></description>
+</item><item>
     <title>道家</title>
     <link>https://example.com/taoists/</link>
     <pubDate>Sun, 31 Dec 2023 23:08:00 &#43;0000</pubDate>
@@ -39,40 +74,5 @@
     <author>作者</author>
     <guid>https://example.com/concept-carbon-emissions-trading/</guid>
     <description><![CDATA[碳排放 碳排放交易市场，是指将碳排放的权利作为一种资产标的，来进行公开交易的市场。 碳中和 碳中和通俗来说就是碳排放量的“收支相抵”，是指企业、团]]></description>
-</item><item>
-    <title>保险概念</title>
-    <link>https://example.com/health-ensurance-conception/</link>
-    <pubDate>Sun, 24 Sep 2023 22:13:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/health-ensurance-conception/</guid>
-    <description><![CDATA[IRR （Internal Rate of Return）（内部收益率） 是指资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。 流入投入、产出和净现]]></description>
-</item><item>
-    <title>SNTP 对时原理</title>
-    <link>https://example.com/electricity-time-sync-theory/</link>
-    <pubDate>Sun, 24 Sep 2023 18:57:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/electricity-time-sync-theory/</guid>
-    <description><![CDATA[目前国内 sntp 服务器一般要求精度在 ±50ms 量级，而且由于其受到网络复杂程度和网络环境限制较高，当网络环境较差且上级 sntp 对时服务器级别不高时很难保]]></description>
-</item><item>
-    <title>变电站产品</title>
-    <link>https://example.com/electricity-transformer-substation-product/</link>
-    <pubDate>Sun, 24 Sep 2023 18:01:59 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/electricity-transformer-substation-product/</guid>
-    <description><![CDATA[ICE61850 主站总召站端设备.icd 文件，将所有站端设备的信息和可提供的服务生成.scd 文件（全局文件）；主站针对不同的站端设备，下发不同的.cid 文]]></description>
-</item><item>
-    <title>版权符号™ ® ©</title>
-    <link>https://example.com/commonsense-copyright-symbol/</link>
-    <pubDate>Sat, 16 Sep 2023 09:56:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commonsense-copyright-symbol/</guid>
-    <description><![CDATA[™ 是英文 trademark 的缩写，其英文作为名词的原意是“（注册） 商标;使用在商标上其含义为注册商标。 在国外，标注 TM 的，即为注册商标。 但是在国内，约定成俗的]]></description>
-</item><item>
-    <title>小微企业/小规模纳税人/小型微利企业</title>
-    <link>https://example.com/commerce-xiaowei-xiaoguimo-xiaoxingweili/</link>
-    <pubDate>Mon, 21 Aug 2023 16:21:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://example.com/commerce-xiaowei-xiaoguimo-xiaoxingweili/</guid>
-    <description><![CDATA[小规模纳税人是增值税上的概念；小型微型企业是企业所得税上的概念；小微企业是工信部等部门的划分标准。 小规模纳税人 年销售额达不到 500 万元标准且企业]]></description>
 </item></channel>
 </rss>
